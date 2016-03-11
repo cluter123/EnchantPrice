@@ -1,0 +1,14 @@
+# EnchantPrice Config V1.2
+# Made by cluter123
+# Support: Message me @ https://bukkit.org/members/cluter123.90802646/
+
+# The cost for enchanting an item
+cost: 100
+
+# Worlds this plugin is enabled in.
+worlds:
+  - world
+  - world_the_end
+
+# Self explanatory. Prefix of the message that will be sent to the player upon enchant.
+prefix: '&6[EnchantCost]'

@@ -1,0 +1,16 @@
+main: me.cluter.enchantprice.Main
+name: EnchantPrice
+version: 1.1
+author: cluter123
+depend: [Vault]
+
+
+commands:
+  priceenchant:
+    description: Reload the plugin.
+permissions:
+  enchant.bypass:
+    description: Allows you to bypass the cost to enchant.
+  enchant.reload:
+    description: Reloads the plugin.
+    
